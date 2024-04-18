@@ -1,0 +1,7 @@
+package com.java.hibernatestates;
+
+@Entity
+public class Laptop 
+{
+
+}

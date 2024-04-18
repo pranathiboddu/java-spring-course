@@ -1,0 +1,9 @@
+package com.java.hibernatestates;
+
+import javax.persistence.Entity;
+
+@Entity
+public class Laptop 
+{
+
+}

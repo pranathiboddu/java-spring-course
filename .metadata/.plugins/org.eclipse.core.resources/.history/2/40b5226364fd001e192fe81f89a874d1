@@ -1,0 +1,5 @@
+package com.pran.JpaDemo;
+
+public class Laptop {
+
+}
